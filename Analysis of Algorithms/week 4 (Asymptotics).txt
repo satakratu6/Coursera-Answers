@@ -18,3 +18,8 @@ Answer:-
 
 		Answer:-
 		1.01^10
+         	Extra Question:
+		Which of the following has approximate value 1.22019?
+
+		Answer:-
+		1.01^20
